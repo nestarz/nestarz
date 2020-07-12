@@ -1,4 +1,7 @@
-### Hi there 👋
+Web developper and Computer Vision diplomee, graduate of Pierre and Marie Curie University, in Paris, today I study Information Design at the Design Academy Eindhoven, in the Netherlands.
+
+Committed to re-think the current authority of Internet; I work towards self and community-made tools for everyone and involving everyone using free, open and decentralized means of production with care and ecological sustainability. I am looking to create forms by hacking and revealing the complexity hidden both in the support and the context.
+
 
 <!--
 **nestarz/nestarz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
