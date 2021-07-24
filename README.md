@@ -1,1 +1,1 @@
-talk to me
+dm open
